@@ -17,13 +17,36 @@ public class App {
             FileWriter fileWriter = new FileWriter("res/grades.html");
 
             StringBuilder builder = new StringBuilder();
-            builder.append("table").append("\n");
+            final String css = "<style>"
+                      + " td,th { border: thin-solid} "
+                      + " table, td, th { border-collapse: collapse}"
+                      + "</style>" ;
+            builder.append(css).append("\n");
+
+
+            builder.append("<table>").append("\n");
             builder.append("<tr>");
             for(int i = 0; i < headers.length; i++)
             {
                 builder.append("<th>").append(headers[i]).append("</th>").append("\n");
             }
             builder.append("</tr>").append("\n");
+            while(fileScanner.hasNextLine())
+            {
+                String line = fileScanner.nextLine().replaceAll("\"", "");
+                String[] grades = line.split(",");
+                if(grades.length == 9)
+                {
+                    builder.append("<tr>");
+                    for(int i = 0; i < grades.length; i++)
+                    {
+                        //Build rows
+                        builder.append("<td>").append(grades[i]).append("</td>").append("\n");
+                    }
+                    builder.append("</tr>");
+                }
+            }
+            
             builder.append("</table>");
 
             fileWriter.append(builder.toString());

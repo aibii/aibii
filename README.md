@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aibiike</h1>
-<h3 align="center">A passionate Computer Programming and Analysis student</h3>
+<h3 align="center">A dedicated Computer Programming and Analysis student</h3>
 
-- 🔭 I’m currently working on **Student Management Software**
+- 🔭 I’m currently working on [Student Management Software](https://github.com/aibii/student-management-software)
 
 <p align="left">
 </p>

@@ -1,9 +1,5 @@
-<h1 align="center">Welcome to [Your Name]'s GitHub 👨‍💻</h1>
+<h1 align="center">Welcome to Aibiike's GitHub 👨‍💻</h1>
 <h3 align="center">Aspiring Computer Programmer and Mid-Tier Developer at Ministry of Health</h3>
-
-
-<h1 align="center">Hi 👋, I'm Aibiike</h1>
-<h3 align="center">A dedicated Computer Programming and Analysis student</h3>
 
 - 🔭 I’m currently working on [Student Management Software](https://github.com/aibii/student-management-software)
 

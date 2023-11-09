@@ -10,13 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aibii&repo=student-management-frontend&theme=tokyonight" alt="Student Management Frontend">
   </a>
   <a href="https://github.com/aibii/student-mngmnt-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aibii&repo=student-management-backend&theme=tokyonight" alt="Student Management Backend">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aibii?tab=followers">
-    <img src="https://img.shields.io/github/followers/aibii?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aibii&repo=student-mngmnt-backend&theme=tokyonight" alt="Student Management Backend">
   </a>
 </p>
 

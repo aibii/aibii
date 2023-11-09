@@ -22,7 +22,7 @@ I am a dedicated Computer Programming student currently honing my skills in full
 
 - 🔭 I’m currently working on: **Lingua Pulse** (student-management-frontend/backend)
 - 🌱 I’m currently learning: **Full-Stack Development Techniques**
-- 👨‍💻 All of my projects are available at [https://github.com/aibii]](https://github.com/aibii)
+- 👨‍💻 All of my projects are available at [https://github.com/aibii](https://github.com/aibii)
 - 📫 How to reach me: **aibiike.omurzakova@student.sl.on.ca**
 
 ---

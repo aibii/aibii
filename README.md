@@ -1,7 +1,37 @@
 <h1 align="center">Welcome to Aibiike's GitHub 👨‍💻</h1>
 <h3 align="center">Aspiring Computer Programmer and Mid-Tier Developer at Ministry of Health</h3>
 
-- 🔭 I’m currently working on [Student Management Software](https://github.com/aibii/student-management-software)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight" alt="[Your Name]'s GitHub Stats">
+</p>
+
+<p align="center">
+  <a href="https://github.com/aibii/student-management-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aibii&repo=student-management-frontend&theme=tokyonight" alt="Student Management Frontend">
+  </a>
+  <a href="https://github.com/aibii/student-management-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aibii&repo=student-management-backend&theme=tokyonight" alt="Student Management Backend">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aibii?tab=followers">
+    <img src="https://img.shields.io/github/followers/aibii?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
+---
+
+### 📘 About Me
+
+I am a dedicated Computer Programming student currently honing my skills in full-stack development. My side project, **Lingua Pulse**, aims to revolutionize how we manage educational environments. In addition, I'm gaining industry experience through my placement at the Ministry of Health, contributing as a Mid-Tier Developer.
+
+- 🔭 I’m currently working on: **Lingua Pulse** (student-management-frontend/backend)
+- 🌱 I’m currently learning: **Advanced Full-Stack Development Techniques**
+- 👨‍💻 All of my projects are available at [https://github.com/[YourGitHubUsername]](https://github.com/[YourGitHubUsername])
+- 📫 How to reach me: **[Your Email]**
+
+---
 
 <p align="left">
 </p>

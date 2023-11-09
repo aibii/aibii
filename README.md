@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Computer Programmer and Mid-Tier Developer at Ministry of Health</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight" alt="[Your Name]'s GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=aibii&show_icons=true&theme=tokyonight" alt="Aibiike's GitHub Stats">
 </p>
 
 <p align="center">

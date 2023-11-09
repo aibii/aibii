@@ -21,9 +21,9 @@
 I am a dedicated Computer Programming student currently honing my skills in full-stack development. My side project, **Lingua Pulse**, aims to revolutionize how we manage educational environments. In addition, I'm gaining industry experience through my placement at the Ministry of Health, contributing as a Mid-Tier Developer.
 
 - 🔭 I’m currently working on: **Lingua Pulse** (student-management-frontend/backend)
-- 🌱 I’m currently learning: **Advanced Full-Stack Development Techniques**
-- 👨‍💻 All of my projects are available at [https://github.com/[YourGitHubUsername]](https://github.com/[YourGitHubUsername])
-- 📫 How to reach me: **[Your Email]**
+- 🌱 I’m currently learning: **Full-Stack Development Techniques**
+- 👨‍💻 All of my projects are available at [https://github.com/aibii]](https://github.com/aibii)
+- 📫 How to reach me: **aibiike.omurzakova@student.sl.on.ca**
 
 ---
 

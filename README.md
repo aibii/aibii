@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Aibiike's GitHub 👨‍💻</h1>
+<h1 align="center">Welcome to Aibiike's GitHub 👩‍💻</h1>
 <h3 align="center">Aspiring Computer Programmer and Mid-Tier Developer at Ministry of Health</h3>
 
 <p align="center">
@@ -47,3 +47,4 @@ I am a dedicated Computer Programming student currently honing my skills in full
 ### 📫 Connect with Me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/aibiike-omurzakova-326299221/])
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0A192F?style=flat&logo=GitHub&logoColor=white)](https://aibii.github.io/Portfolio-Website/index.html)
